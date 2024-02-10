@@ -1,5 +1,5 @@
 // for Hit
-let timer = 10;
+let timer = 60;
 let score = 0;
 let hitrn = 0;
 
